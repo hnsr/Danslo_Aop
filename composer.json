@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "goaop/framework": "1.2.*",
+        "goaop/framework": "2.*",
         "mikey179/vfsStream": "1.4.*"
     },
     "require-dev": {
